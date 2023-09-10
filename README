@@ -1,0 +1,10 @@
+"GymAssistant" is an intelligent chatbot designed to enhance the experience of users at a gym. It offers a range of features to both new and existing gym members. For new users, the chatbot guides them through enrollment, membership plans, promotions, nearest gym locations, and FAQs. Existing members can manage their memberships, access personalized analytics, find trainers, receive exercise recommendations, and determine the best times to visit the gym based on predicted occupancy. The chatbot utilizes sentiment analysis, cosine similarity, and regression to provide accurate suggestions and insights, ultimately offering a convenient and interactive way for gym-goers to achieve their fitness goals.
+Replace the email variable with your own eamil, and create the datasets uploaded as per the following.
+Excel data files used in the code –
+(i) gym_data - master list of all anytime fitness gyms
+(ii) gym_occupancy – past occupancy data for all gyms at a datetime level
+(iii) gym_trainer_reviews – database of rating and reviews for all trainers
+(iv) gym_trainers_dataset – database of trainers with their specialization
+(v) gym_usage_2 – user’s daily gym session duration
+(vi) user_data – database of all users with their attributes
+(vii) zipcode_master - master list of all zipcodes
